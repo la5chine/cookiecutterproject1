@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=cookieproject
+POSTGRES_USER=coDZhnGpIsLxPLQluVtKehopXwiMcipg
+POSTGRES_PASSWORD=pCUrVDHQTFeKxcYBi29jGYRVSXcayTEQ7XWLASUeM6iz3FdE2eZwAjF5P8lTfBiv
